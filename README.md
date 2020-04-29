@@ -2,8 +2,7 @@
 Repository containing all files for the following paper, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586138
 
 ## Relevant Notation
-
-<img src="https://latex.codecogs.com/gif.latex?\inline&space;A:=&space;\big\{\hbox{&space;all&space;NYSE,&space;NASDAQ,&space;and&space;AMEX&space;stocks&space;}\big\}\" />
+![Test](http://latex.codecogs.com/svg.latex?1+sin(x))
 
 ## Methods
 * Method 1
