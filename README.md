@@ -22,6 +22,7 @@ Repository containing all files for the following paper, https://papers.ssrn.com
   * Asset Weighted HFU Tilt
   
 ## File Structure
+* Title and Imports
 * Fetch holdings, benchmark, returns information
 * Calculate Best Ideas with respect to tilt and additional filters
 * Back-test the portfolio and report cumulative / yearly performance
