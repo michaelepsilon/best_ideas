@@ -1,6 +1,10 @@
 # Aggregate Alpha in the Hedge Fund Industry: A Further Look at Best Ideas 
 Repository containing all files for the following paper, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586138
 
+## Relevant Notation
+
+<img src="https://latex.codecogs.com/gif.latex?\inline&space;A:=&space;\big\{\hbox{&space;all&space;NYSE,&space;NASDAQ,&space;and&space;AMEX&space;stocks&space;}\big\}\" />
+
 ## Methods
 * Method 1
   * Market Tilt
