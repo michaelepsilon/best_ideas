@@ -1,5 +1,13 @@
 # Aggregate Alpha in the Hedge Fund Industry: A Further Look at Best Ideas 
-Repository containing all files for the following paper, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586138
+Please visit our research portal for context on the study: https://www.epsilonmgmt.com/research/hedge-fund-best-ideas
+
+Repository containing all files for the following paper,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3586138
+
+Files are organized by ‘Best Idea’ Method.  Methodologies for Methods 1 – 9 are detailed on Page 8 (Section 4.2) of the paper linked to above.
+
+Each Method is further grouped into 31 sub-analyses.  Sub-analyses reproduce Cohen, Sili Polk Best Idea nested methodologies detailed in their paper (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1364827) whichwere unpublished in ours.  These include regression analysis from Tables 2 – 13 of their paper.
+
+We also include of ‘Best minus Rest’ and ‘Rest Idea’ portfolios detailed in sections 5.3.3 and 5.3.4 of our paper (pages 15 – 18).
 
 ## Methods
 * Method 1
